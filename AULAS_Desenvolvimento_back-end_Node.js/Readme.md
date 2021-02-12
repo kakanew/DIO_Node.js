@@ -1,4 +1,4 @@
-# [AULAS_Desenvolvimento back-end com Node.js](https://github.com/kakanew/DIO_Node.js/tree/master/Innovation_Desenvolvimento_back-end_Node.js) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/desenvolvimento-back-end-com-nodejs/learning/f03a6dd4-6e46-4acb-a9af-128f039a2162/)
+# [AULAS_Desenvolvimento back-end com Node.js](https://github.com/kakanew/DIO_Node.js/tree/master/AULAS_Desenvolvimento_back-end_Node.js) ☼ [Aulas DIO](https://web.digitalinnovation.one/course/desenvolvimento-back-end-com-nodejs/learning/f03a6dd4-6e46-4acb-a9af-128f039a2162/)
 
 Aprenda como programar em back-end utilizando o Node, uma plataforma poderosa de aplicações que conecta o back ao front-end.
 
